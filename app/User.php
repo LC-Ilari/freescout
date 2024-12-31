@@ -552,6 +552,7 @@ class User extends Authenticatable
                 's' => 'ss',
                 'l' => 'cccc',
                 'O' => 'xx',
+                'Y' => 'yyyy',
             ]);
 
             // Remove dot from month name.
